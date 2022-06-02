@@ -8,6 +8,7 @@ Git is confusing to me
 Push using GUI
 
 I'm doing this using a cool tutorial: https://www.youtube.com/watch?v=fRaHq5jd2Po
+:)
 
 Good Bye World!
 
