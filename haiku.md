@@ -1,7 +1,5 @@
 Hello World!
-adventurer screams
-blindly, lemons yearn, fearful
-pebble kisses, brown
+brown
 
 Secretly A Dog
 Time runs under elipses
